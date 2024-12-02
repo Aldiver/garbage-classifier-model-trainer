@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Metal</folder>
+	<filename>7929.JPG</filename>
+	<path>C:\Users\User\Downloads\Final Images\Recyclable\Metal\7929.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>128</ymin>
+			<xmax>846</xmax>
+			<ymax>848</ymax>
+		</bndbox>
+	</object>
+</annotation>

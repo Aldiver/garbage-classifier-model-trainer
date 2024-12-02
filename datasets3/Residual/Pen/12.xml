@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pen</folder>
+	<filename>12.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Residual\Pen\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1797</width>
+		<height>1805</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>575</ymin>
+			<xmax>1483</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>854</ymin>
+			<xmax>1561</xmax>
+			<ymax>945</ymax>
+		</bndbox>
+	</object>
+</annotation>

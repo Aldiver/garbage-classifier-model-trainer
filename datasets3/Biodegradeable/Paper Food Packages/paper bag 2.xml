@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Paper Food Packages</folder>
+	<filename>paper bag 2.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Biodegradeable\Paper Food Packages\paper bag 2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paper Food Packages</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>548</ymin>
+			<xmax>1164</xmax>
+			<ymax>1751</ymax>
+		</bndbox>
+	</object>
+</annotation>

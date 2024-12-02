@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Juice Box</folder>
+	<filename>JUICE BOX 1.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Recyclable\Juice Box\JUICE BOX 1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Juice Box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>434</ymin>
+			<xmax>1122</xmax>
+			<ymax>1520</ymax>
+		</bndbox>
+	</object>
+</annotation>

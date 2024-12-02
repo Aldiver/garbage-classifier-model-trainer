@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Box</folder>
+	<filename>1696670622571.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Recyclable\Box\1696670622571.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>195</ymin>
+			<xmax>2985</xmax>
+			<ymax>2685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1810</xmin>
+			<ymin>925</ymin>
+			<xmax>3770</xmax>
+			<ymax>2840</ymax>
+		</bndbox>
+	</object>
+</annotation>

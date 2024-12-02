@@ -1,0 +1,7 @@
+# Ignore tensorflow folder
+datasets/
+datasets2/
+tensorflow/
+examples/
+organized_data/
+__pycache__/

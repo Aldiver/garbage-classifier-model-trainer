@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Paper</folder>
+	<filename>10_359.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Biodegradeable\Paper\10_359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3088</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1059</xmin>
+			<ymin>933</ymin>
+			<xmax>2254</xmax>
+			<ymax>2165</ymax>
+		</bndbox>
+	</object>
+</annotation>

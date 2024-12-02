@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wooden Utensils</folder>
+	<filename>10055.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Biodegradeable\Wooden Utensils\10055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wooden Utensils</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>9</ymin>
+			<xmax>547</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

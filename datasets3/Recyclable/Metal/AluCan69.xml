@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Metal</folder>
+	<filename>AluCan69.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Recyclable\Metal\AluCan69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>324</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>49</ymin>
+			<xmax>241</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

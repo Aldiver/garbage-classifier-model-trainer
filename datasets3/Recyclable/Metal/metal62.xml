@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Metal</folder>
+	<filename>metal62.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Recyclable\Metal\metal62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>722</ymin>
+			<xmax>3236</xmax>
+			<ymax>2567</ymax>
+		</bndbox>
+	</object>
+</annotation>

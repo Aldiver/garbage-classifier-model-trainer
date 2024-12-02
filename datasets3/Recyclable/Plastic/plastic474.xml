@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Plastic</folder>
+	<filename>plastic474.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Recyclable\Plastic\plastic474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>1886</ymin>
+			<xmax>3032</xmax>
+			<ymax>2448</ymax>
+		</bndbox>
+	</object>
+</annotation>

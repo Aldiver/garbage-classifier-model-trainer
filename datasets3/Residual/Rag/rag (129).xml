@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Rag</folder>
+	<filename>rag (129).jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Residual\Rag\Rag (129).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>273</ymin>
+			<xmax>423</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>150</ymin>
+			<xmax>524</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

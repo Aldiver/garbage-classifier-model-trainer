@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pen</folder>
+	<filename>IMG_20241028_154408.jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Residual\Pen\IMG_20241028_154408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>1273</ymin>
+			<xmax>2266</xmax>
+			<ymax>3180</ymax>
+		</bndbox>
+	</object>
+</annotation>

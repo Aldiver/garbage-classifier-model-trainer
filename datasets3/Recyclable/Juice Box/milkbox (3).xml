@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Juice Box</folder>
+	<filename>milkbox (3).jpg</filename>
+	<path>C:\Users\User\Downloads\Final Images\Recyclable\Juice Box\milkbox (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Juice Box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>35</ymin>
+			<xmax>319</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
